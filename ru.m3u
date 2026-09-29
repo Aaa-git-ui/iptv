@@ -102,6 +102,8 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (2)
 https://stream8.cinerama.uz/1200/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ (3)
+http://stream.mcquack.net/86/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -395,6 +397,8 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (2)
 https://stream8.cinerama.uz/1202/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (3)
+http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png", RU.TV РУ.ТВ (4)
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png", История
 https://stream8.cinerama.uz/1266/index.m3u8
@@ -654,6 +658,8 @@ https://stream8.cinerama.uz/1243/index.m3u8
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 3
 http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 (2)
+http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
@@ -1365,10 +1371,14 @@ https://stream8.cinerama.uz/1038/index.m3u8
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка (3)
 http://iptv.mega.net.ru:8888/Ohota_i_Ribalka/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Охота и рыбалка (4)
+http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке (2)
 http://iptv.mega.net.ru:8888/Dialogi_o_ribalke/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикий
+https://stream8.cinerama.uz/1230/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской (2)
